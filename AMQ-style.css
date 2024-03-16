@@ -166,7 +166,7 @@ ________________________________________________________________________________
         --songHistoryCorrectColorHover: color-mix(in srgb, var(--songHistoryCorrectColor), white 5%);
         --songHistoryWrongColorHover: color-mix(in srgb, var(--songHistoryWrongColor), white 5%);
     }
-    /* DO NOT TOUCH THE VARIABLES BELOW FEEL FREE TO EDIT THE VALUES ABOVE LINE 170*/
+    /* DO NOT TOUCH THE VARIABLES BELOW LINE 169 FEEL FREE TO EDIT THE VALUES ABOVE LINE 169*/
     /* Basic Defaults */
     body {
         color: var(--textColor);
