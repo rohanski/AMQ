@@ -6,7 +6,7 @@
 @author       Rohanski
 @homepageURL  https://github.com/rohanski
 @license      Unlicense
-==/UserStyle== */
+==/UserStyle== */   
 
 
 /*________________________________________________________________________________________________
@@ -108,7 +108,6 @@ songHistoryWrongColorHover: color-mix(in srgb, var(songHistoryWrongColor), white
 
 ________________________________________________________________________________________________*/
 
-
 @-moz-document domain("animemusicquiz.com") {
     
     
@@ -167,8 +166,7 @@ ________________________________________________________________________________
         --songHistoryCorrectColorHover: color-mix(in srgb, var(--songHistoryCorrectColor), white 5%);
         --songHistoryWrongColorHover: color-mix(in srgb, var(--songHistoryWrongColor), white 5%);
     }
-    
-    
+    /* DO NOT TOUCH THE VARIABLES BELOW FEEL FREE TO EDIT THE VALUES ABOVE LINE 170*/
     /* Basic Defaults */
     body {
         color: var(--textColor);
